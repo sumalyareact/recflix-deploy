@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/recflix-deploy/static/css/main.ad78137a.chunk.css",
+    "main.js": "/recflix-deploy/static/js/main.c20a0299.chunk.js",
+    "main.js.map": "/recflix-deploy/static/js/main.c20a0299.chunk.js.map",
+    "runtime-main.js": "/recflix-deploy/static/js/runtime-main.0fcb5583.js",
+    "runtime-main.js.map": "/recflix-deploy/static/js/runtime-main.0fcb5583.js.map",
+    "static/js/2.2f728016.chunk.js": "/recflix-deploy/static/js/2.2f728016.chunk.js",
+    "static/js/2.2f728016.chunk.js.map": "/recflix-deploy/static/js/2.2f728016.chunk.js.map",
+    "index.html": "/recflix-deploy/index.html",
+    "static/css/main.ad78137a.chunk.css.map": "/recflix-deploy/static/css/main.ad78137a.chunk.css.map",
+    "static/js/2.2f728016.chunk.js.LICENSE.txt": "/recflix-deploy/static/js/2.2f728016.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/recflix-deploy/static/media/netf2.8b41e4fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fcb5583.js",
+    "static/js/2.2f728016.chunk.js",
+    "static/css/main.ad78137a.chunk.css",
+    "static/js/main.c20a0299.chunk.js"
+  ]
+}
